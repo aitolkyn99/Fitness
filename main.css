@@ -88,3 +88,28 @@ body {
 .table {
   overflow: auto;
 }
+
+
+
+#challenges .card-text {
+  color:red; 
+  font-weight: bold;
+}
+
+#challenges .card-title {
+  color: wheat;
+}
+
+#challenges .card-title.large {
+  
+  font-weight: bold;
+}
+
+
+
+#challenges .card-body {
+  background-image: url("img/c1.jpg");
+
+  background-color: #cccccc;
+}
+
